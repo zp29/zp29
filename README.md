@@ -20,10 +20,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+
+
+<!--
 <div align="center" width="50%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zp29&theme=github" alt="Hello world">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zp29&theme=github" alt="Hello world">
 </div>
+-->
 
 <br>
 
