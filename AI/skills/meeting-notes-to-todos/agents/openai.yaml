@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议记录转待办"
+  short_description: "把会议中的 TODO、BUG 和口语记录整理为可复制待办清单"
+  default_prompt: "使用 $meeting-notes-to-todos 将下面的会议记录整理成可直接复制的 Markdown 待办清单。"
